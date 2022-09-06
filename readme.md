@@ -12,3 +12,4 @@ Mati
 Kati
 Malle
 Loore
+pull
